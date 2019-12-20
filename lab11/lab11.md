@@ -58,5 +58,5 @@ tr1 = Triangle(3, 4, 5)
 print('Sides of triangle are {0}'.format(tr1.get_side()))
 print('Perimeter of triangle is {0}'.format(tr1.get_perimeter()))
 print('Square of triangle is {0}'.format(tr1.get_square()))
-print('Add {0}: {1}'.format(num, tr1 + num))
+print(' Add {0}: {1}'.format(num, tr1 + num))
 ```
