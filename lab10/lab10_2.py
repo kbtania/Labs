@@ -14,7 +14,7 @@ class Date:
         self.__date = datetime.date(year, month, day)
 
     def __str__(self):
-        return "{0:02}.{1:02}.{2}".format(self.__day, self.__month, self.__year)
+        return "{0}.{1}.{2}".format(self.__day, self.__month, self.__year)
 
     def get_date(self):
         return self.__date
