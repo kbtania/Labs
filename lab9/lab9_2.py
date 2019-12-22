@@ -64,6 +64,7 @@ while True:
 
     if choice == 'exit':
         break
+    
     elif choice == 'all buses':
         for buses in user_bus:
             for bus in buses.get_bus():
@@ -74,6 +75,7 @@ while True:
                          input('Departure: '), input('Arrival: ')))
         user_bus.append(bus1)
         continue
+    
     elif choice == 'from':
         user_from = input('From: ')
         for buses in user_bus:
