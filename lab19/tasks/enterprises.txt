@@ -1,0 +1,16 @@
+3
+IBM
+105 Madison Ave, New York
++1 800-426-4968
+Computer Services
+9.00 - 19.00
+Walmart
+2710 Broadway, Pittsburg
++1 890-4835-418
+Supermarket
+9.00 - 19.00
+Bunna Cafe
+Flushing Ave, Brooklyn, NY
+0 800 586 45 23
+Food
+8.00 - 22.00
